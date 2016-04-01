@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Component feature.
+ */
+
+include_once 'compro_component.features.inc';
