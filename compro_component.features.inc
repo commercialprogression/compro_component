@@ -9,8 +9,8 @@
  */
 function compro_component_eck_entity_type_info() {
   $items = array(
-    'component' => array(
-      'name' => 'component',
+    'compro_component' => array(
+      'name' => 'compro_component',
       'label' => 'Component',
       'properties' => array(
         'title' => array(
